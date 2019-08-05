@@ -1,12 +1,12 @@
 # Instagram Similar Hashtags
 - A command-line script that lists the similar hashtags based on the user keyword.
-- No configuration or sensitive information required.
+- No configuration or password required.
 
 # Requirements
 - Python 3.x
 
 # Usage
-1. Clone the repo to your desktop.
+1. Clone the repo to your computer.
 2. Run the script using the command `python3 hashtags.py`
 3. Enter the hashtag.
 
