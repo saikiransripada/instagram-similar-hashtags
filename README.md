@@ -1,4 +1,4 @@
-# Instagram Popular #Hashtags
+# Instagram Similar Hashtags
 - A command-line script that lists the similar hashtags based on the user keyword.
 - No configuration or sensitive information required.
 
