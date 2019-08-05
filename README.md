@@ -1,5 +1,5 @@
 # Instagram Popular #Hashtags
-- A command-line script that lists the popular hashtags based on the user input.
+- A command-line script that lists the similar hashtags based on the user keyword.
 - No configuration or sensitive information required.
 
 # Requirements
