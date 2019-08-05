@@ -1,4 +1,4 @@
-# Instagram Popular #ashtags
+# Instagram Popular #Hashtags
 - A command-line script that lists the popular hashtags based on the user input.
 - No configuration or sensitive information required.
 
